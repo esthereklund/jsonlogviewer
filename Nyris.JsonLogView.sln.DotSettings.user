@@ -1,0 +1,60 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/Users/veronika/.nuget/packages/microsoft.extensions.hosting/6.0.1/lib/net6.0/Microsoft.Extensions.Hosting.dll" /&gt;
+  &lt;Assembly Path="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.3/ref/net6.0/System.Runtime.dll" /&gt;
+  &lt;Assembly Path="/Users/veronika/.nuget/packages/system.commandline/2.0.0-beta3.22114.1/lib/net6.0/System.CommandLine.dll" /&gt;
+  &lt;Assembly Path="/Users/veronika/.nuget/packages/microsoft.extensions.logging/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Logging.dll" /&gt;
+  &lt;Assembly Path="/Users/veronika/.nuget/packages/microsoft.extensions.hosting.abstractions/6.0.0/lib/netstandard2.1/Microsoft.Extensions.Hosting.Abstractions.dll" /&gt;
+  &lt;Assembly Path="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/6.0.7/ref/net6.0/Microsoft.CSharp.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=154e4a7f_002Df9d8_002D46a9_002Dafcd_002D0fd9fe08016c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TryParseLineWorks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25ff9238_002D70bd_002D4f4f_002Db268_002Dd65145d6daa6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ScopesOffFormattingWorks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a8111c8_002Db6fd_002D4a1d_002Dbbd6_002D3b039037456a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IntegrationTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=63adf170_002Da136_002D44d8_002Db448_002D350e932b9ed3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItWorks #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a92fd0a7_002D04ba_002D41a2_002D81d6_002Dfa9d959e1e18/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NoTimestampFormattingWorks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest.NoTimestampFormattingWorks&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest.SimpleConsoleFormattingWorks&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0738cba_002Dbdfb_002D4058_002Dbefa_002Dd5c5c5bc8126/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItWorks #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest.ItWorks&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bea86c99_002D7ea0_002D4da8_002Db171_002Db73badf8f9c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IntegrationTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d0378f17_002D617e_002D446d_002D8433_002D331db8dfadfc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItWorks #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc40e164_002Dd613_002D42e2_002D9ba6_002Db20012468b36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItWorks" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest.ItWorks&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef85dadc_002Dff64_002D4f5f_002D972f_002Dc6c1bbb61f43/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItWorks #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A0144252-A0AF-4485-89B7-F3E2FC9A4AED::net6.0::Nyris.JsonLogView.Tests.IntegrationTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

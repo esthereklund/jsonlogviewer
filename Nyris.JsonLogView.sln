@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4665E2FA-0F18-4700-8F43-0F4A432C8961}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		LICENSE.md = LICENSE.md
+		INTERNAL.md = INTERNAL.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{55676553-ACD0-4A25-BA1E-3F47747CE77C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8FB0C9A0-BC3B-4F46-8BF6-9D3D4441ECB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView", "src\Nyris.JsonLogView\Nyris.JsonLogView.csproj", "{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.Core", "src\Nyris.JsonLogView.Core\Nyris.JsonLogView.Core.csproj", "{5CDD0863-1B50-43FC-BEF7-70BE97256592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{B70178A1-DB34-4C3F-A6F6-A5EFF6B3D75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.SimpleTest", "samples\Nyris.JsonLogView.SimpleTest\Nyris.JsonLogView.SimpleTest.csproj", "{FF693285-A547-42D1-AC3F-E6A078674BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.JsonTest", "samples\Nyris.JsonLogView.JsonTest\Nyris.JsonLogView.JsonTest.csproj", "{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.Tests", "test\Nyris.JsonLogView.Tests\Nyris.JsonLogView.Tests.csproj", "{A0144252-A0AF-4485-89B7-F3E2FC9A4AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.RandomText", "samples\Nyris.JsonLogView.RandomText\Nyris.JsonLogView.RandomText.csproj", "{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "snippets", "snippets", "{DF715CCF-335B-4F00-AF9C-F4A8D43D690F}"
+	ProjectSection(SolutionItems) = preProject
+		ColorOption.png = ColorOption.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyris.JsonLogView.Benchmark", "test\Nyris.JsonLogView.Benchmark\Nyris.JsonLogView.Benchmark.csproj", "{6C555D09-28FC-493F-9DBD-90EEE4175375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDD0863-1B50-43FC-BEF7-70BE97256592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDD0863-1B50-43FC-BEF7-70BE97256592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDD0863-1B50-43FC-BEF7-70BE97256592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDD0863-1B50-43FC-BEF7-70BE97256592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF693285-A547-42D1-AC3F-E6A078674BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF693285-A547-42D1-AC3F-E6A078674BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF693285-A547-42D1-AC3F-E6A078674BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF693285-A547-42D1-AC3F-E6A078674BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0144252-A0AF-4485-89B7-F3E2FC9A4AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0144252-A0AF-4485-89B7-F3E2FC9A4AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0144252-A0AF-4485-89B7-F3E2FC9A4AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0144252-A0AF-4485-89B7-F3E2FC9A4AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C555D09-28FC-493F-9DBD-90EEE4175375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C555D09-28FC-493F-9DBD-90EEE4175375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C555D09-28FC-493F-9DBD-90EEE4175375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C555D09-28FC-493F-9DBD-90EEE4175375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C35B1623-0DC1-4B31-BCFC-E5D8B69D022C} = {8FB0C9A0-BC3B-4F46-8BF6-9D3D4441ECB0}
+		{5CDD0863-1B50-43FC-BEF7-70BE97256592} = {8FB0C9A0-BC3B-4F46-8BF6-9D3D4441ECB0}
+		{FF693285-A547-42D1-AC3F-E6A078674BC7} = {B70178A1-DB34-4C3F-A6F6-A5EFF6B3D75F}
+		{F69D7DA5-50D1-4450-84E6-ABD0C76A08F6} = {B70178A1-DB34-4C3F-A6F6-A5EFF6B3D75F}
+		{A0144252-A0AF-4485-89B7-F3E2FC9A4AED} = {55676553-ACD0-4A25-BA1E-3F47747CE77C}
+		{B7B2EA6C-BCF0-4364-AEDB-6CD7F507F843} = {B70178A1-DB34-4C3F-A6F6-A5EFF6B3D75F}
+		{DF715CCF-335B-4F00-AF9C-F4A8D43D690F} = {4665E2FA-0F18-4700-8F43-0F4A432C8961}
+		{6C555D09-28FC-493F-9DBD-90EEE4175375} = {55676553-ACD0-4A25-BA1E-3F47747CE77C}
+	EndGlobalSection
+EndGlobal
